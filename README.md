@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 👋 Hey, I'm Kunvarpreet<br><br> 🎓 Computer Science student at ABV-IIITM Gwalior<br> 📱 Android Developer (Kotlin + Jetpack Compose)<br><br> 🚀 What I'm Working On<br><br> Building Android apps with modern architecture (MVVM, Navigation)<br> Improving UI/UX with Material 3<br><br> 🛠 Tech Stack<br><br>* **Languages:** Kotlin, Java, C, C++<br>* **Android:** Jetpack Compose, MVVM, Navigation<br>* **Tools:** Git, Linux, Android Studio<br>
+## 👋 Hey, I'm Kunvarpreet<br><br>* 🎓 Computer Science student at ABV-IIITM Gwalior<br>* 📱 Android Developer (Kotlin + Jetpack Compose)<br><br> 🚀 What I'm Working On<br><br>* Building Android apps with modern architecture (MVVM, Navigation)<br>* Improving UI/UX with Material 3<br><br> 🛠 Tech Stack<br><br>* **Languages:** Kotlin, Java, C, C++<br>* **Android:** Jetpack Compose, MVVM, Navigation<br>* **Tools:** Git, Linux, Android Studio<br>
 
 
 ## 🌐 Socials:
